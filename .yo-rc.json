@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "app-name": "groceryList",
+    "architecture": "flux",
+    "styles-language": "css",
+    "component-suffix": "js"
+  }
+}
